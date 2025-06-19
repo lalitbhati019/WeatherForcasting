@@ -1,1 +1,2 @@
 # WeatherForcasting
+This project is a simple and user-friendly weather forecasting web application built using HTML, CSS, and JavaScript. It allows users to check the current weather conditions of any city by fetching data from a public weather API. The app displays temperature, humidity, wind speed, and general conditions in a clean and responsive layout. This project was created for learning how to work with APIs, DOM manipulation, and real-time data rendering in the browser.
